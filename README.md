@@ -16,10 +16,11 @@ María Martínez               Producción
 Raquel Loureiro             Calidad
 
 
-**Piensa en una empresa de fontanería con 43 trabajadores, que hace instalaciones, reparaciones y venta. Esta empresa tiene varios departamentos como dirección, ventas, recursos humanos, instaladores, etc. Piensa que departamentos puede tener, te puedes ayudar de internet y haz un esquema con la organización ( no pongas nombres de los trabajadores, solo departamentos).**
+
 
 
 <img width="544" alt="zapateria" src="https://user-images.githubusercontent.com/71392489/96594543-05de4780-12eb-11eb-97c4-97ad26bf84f2.png">
 
+**Piensa en una empresa de fontanería con 43 trabajadores, que hace instalaciones, reparaciones y venta. Esta empresa tiene varios departamentos como dirección, ventas, recursos humanos, instaladores, etc. Piensa que departamentos puede tener, te puedes ayudar de internet y haz un esquema con la organización ( no pongas nombres de los trabajadores, solo departamentos).**
 
 **El esquema lo puedes hacer con mind map 2, debe quedarte similar al de la zapatería de arriba, aquí te dejo un video para instalarlo en tu cuenta de google (está en inglés pero se puede subtitular en español y es fácil de entender). Envía pantallazo**
