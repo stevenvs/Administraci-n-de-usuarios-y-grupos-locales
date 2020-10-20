@@ -6,6 +6,7 @@
 
 **Crea los siguientes grupos y usuarios de una empresa, envía pantallazos.**
 
+<img width="544" alt="zapateria" src="https://user-images.githubusercontent.com/71392489/96594543-05de4780-12eb-11eb-97c4-97ad26bf84f2.png">
 
 Persona                         Departamento
 Alfredo García               Producción
