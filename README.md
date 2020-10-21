@@ -1,6 +1,7 @@
 # Administraci-n-de-usuarios-y-grupos-locales
 
 **Qué cuentas de usuario se crean automáticamente durante la instalación, cuales están deshabilitadas?**
+Se crean 3 cuentas por defecto 
 
 **Elige un equipo de fútbol, baloncesto o cualquier otro deporte y crea un grupo con el nombre del equipo, luego crea cuentas para 6 jugadores, agrégalos al grupo y envía pantallazo**
 
